@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-existed&layout=compact&hide=html" alt="dark-existed" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-existed&layout=compact&hide=html" alt="dark-existed" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-existed&show_icons=true" alt="dark-existed" />
